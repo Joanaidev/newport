@@ -2,10 +2,6 @@
 
 A sophisticated, AI-powered portfolio showcasing Joan Alonge's expertise in transforming operational chaos into predictive excellence.
 
-## 🚀 Live Demo
-
-[View Portfolio](https://joanalonge.vercel.app) *(replace with your actual domain)*
-
 ## ✨ Features
 
 - **Smart Local Chat System** - Answers questions about Joan's experience, location (Canada), and expertise instantly
